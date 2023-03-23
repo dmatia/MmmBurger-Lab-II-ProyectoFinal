@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\Style.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="449" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\IngDeHamburguesaArchivo.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="320" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Hamburguesa.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1047" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="include\ComboDelDia.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="348" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\IngDeHambuguesa.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="620" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="19" />
+			<Collapse line="24" />
+			<Collapse line="29" />
+			<Collapse line="34" />
+			<Collapse line="39" />
+		</Folding>
+	</File>
+	<File name="src\Fecha.cpp" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="678" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\Ingrediente.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\PedidoArchivo.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="474" topLine="68" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="9" />
+			<Collapse line="88" />
+			<Collapse line="111" />
+		</Folding>
+	</File>
+	<File name="src\ComboArchivo.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1931" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="include\BebidaArchivo.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="478" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Menu.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="226" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Hora.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="333" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ComboDelDiaArchivo.cpp" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2850" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="include\HamburguesaDelDia.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="356" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ComboDelDia.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1374" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="include\ComboDelDiaArchivo.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="685" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\IngredienteArchivo.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1733" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="src\Bebida.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="193" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\BebidaDelDiaArchivo.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="701" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ManejoArchivos.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6560" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="27" />
+			<Collapse line="42" />
+			<Collapse line="57" />
+			<Collapse line="72" />
+			<Collapse line="88" />
+			<Collapse line="103" />
+			<Collapse line="119" />
+			<Collapse line="136" />
+			<Collapse line="153" />
+			<Collapse line="170" />
+			<Collapse line="187" />
+			<Collapse line="204" />
+		</Folding>
+	</File>
+	<File name="include\Pedido.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="868" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="include\Administrador.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1049" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\IngDeHamburguesaArchivo.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2486" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="include\Ticket.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="351" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ManejoArchivos.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="633" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\TicketArchivo.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2679" topLine="23" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="23" />
+			<Collapse line="47" />
+			<Collapse line="53" />
+			<Collapse line="62" />
+			<Collapse line="71" />
+			<Collapse line="83" />
+		</Folding>
+	</File>
+	<File name="src\HamburguesaArchivo.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2161" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Hora.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="127" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Ingrediente.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="188" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\BebidaDelDia.cpp" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1302" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="include\Hamburguesa.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\IngredienteDelDia.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="560" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\MasterMind.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="795" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include\IngredienteArchivo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="390" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\PedidoArchivo.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="732" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Fecha.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="968" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="src\Pedido.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1265" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="src\Administrador.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="44342" topLine="223" />
+		</Cursor>
+		<Folding>
+			<Collapse line="40" />
+			<Collapse line="45" />
+			<Collapse line="104" />
+			<Collapse line="152" />
+			<Collapse line="276" />
+			<Collapse line="355" />
+			<Collapse line="403" />
+			<Collapse line="412" />
+			<Collapse line="471" />
+			<Collapse line="509" />
+			<Collapse line="516" />
+			<Collapse line="569" />
+			<Collapse line="608" />
+			<Collapse line="668" />
+			<Collapse line="735" />
+			<Collapse line="740" />
+			<Collapse line="773" />
+			<Collapse line="835" />
+			<Collapse line="1050" />
+			<Collapse line="1067" />
+		</Folding>
+	</File>
+	<File name="include\IngDeHambuguesa.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MasterMind.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48982" topLine="344" />
+		</Cursor>
+		<Folding>
+			<Collapse line="51" />
+			<Collapse line="148" />
+			<Collapse line="198" />
+			<Collapse line="200" />
+			<Collapse line="395" />
+			<Collapse line="447" />
+			<Collapse line="499" />
+			<Collapse line="510" />
+			<Collapse line="519" />
+			<Collapse line="740" />
+			<Collapse line="823" />
+			<Collapse line="887" />
+			<Collapse line="941" />
+			<Collapse line="993" />
+			<Collapse line="1031" />
+		</Folding>
+	</File>
+	<File name="src\Caja.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21979" topLine="162" />
+		</Cursor>
+		<Folding>
+			<Collapse line="39" />
+			<Collapse line="76" />
+			<Collapse line="176" />
+			<Collapse line="234" />
+			<Collapse line="292" />
+			<Collapse line="357" />
+			<Collapse line="450" />
+		</Folding>
+	</File>
+	<File name="include\HamburguesaArchivo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="117" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="src\Ticket.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2285" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="include\HamburguesaDelDiaArchivo.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="445" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\BebidaDelDiaArchivo.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2088" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="include\BebidaDelDia.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Menu.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1692" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="100" />
+			<Collapse line="186" />
+			<Collapse line="293" />
+		</Folding>
+	</File>
+	<File name="include\TicketArchivo.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="385" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Bebida.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\IngredienteDelDiaArchivo.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2957" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="10" />
+			<Collapse line="15" />
+			<Collapse line="26" />
+			<Collapse line="34" />
+			<Collapse line="48" />
+			<Collapse line="57" />
+			<Collapse line="66" />
+			<Collapse line="78" />
+		</Folding>
+	</File>
+	<File name="src\HamburguesaDelDiaArchivo.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4464" topLine="28" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+			<Collapse line="41" />
+			<Collapse line="55" />
+			<Collapse line="64" />
+			<Collapse line="76" />
+			<Collapse line="128" />
+			<Collapse line="140" />
+		</Folding>
+	</File>
+	<File name="include\Caja.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\HamburguesaDelDia.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1607" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="include\ComboArchivo.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Style.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1735" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="31" />
+			<Collapse line="46" />
+			<Collapse line="54" />
+			<Collapse line="81" />
+			<Collapse line="92" />
+		</Folding>
+	</File>
+	<File name="src\Combo.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1132" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\IngredienteDelDiaArchivo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="458" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\IngredienteDelDia.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1105" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="src\BebidaArchivo.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1330" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="include\Combo.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="2" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

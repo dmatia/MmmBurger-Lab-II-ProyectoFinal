@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto Final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Administrador.h" />
+		<Unit filename="include/Bebida.h" />
+		<Unit filename="include/BebidaArchivo.h" />
+		<Unit filename="include/BebidaDelDia.h" />
+		<Unit filename="include/BebidaDelDiaArchivo.h" />
+		<Unit filename="include/Caja.h" />
+		<Unit filename="include/Combo.h" />
+		<Unit filename="include/ComboArchivo.h" />
+		<Unit filename="include/ComboDelDia.h" />
+		<Unit filename="include/ComboDelDiaArchivo.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/Hamburguesa.h" />
+		<Unit filename="include/HamburguesaArchivo.h" />
+		<Unit filename="include/HamburguesaDelDia.h" />
+		<Unit filename="include/HamburguesaDelDiaArchivo.h" />
+		<Unit filename="include/Hora.h" />
+		<Unit filename="include/IngDeHambuguesa.h" />
+		<Unit filename="include/IngDeHamburguesaArchivo.h" />
+		<Unit filename="include/Ingrediente.h" />
+		<Unit filename="include/IngredienteArchivo.h" />
+		<Unit filename="include/IngredienteDelDia.h" />
+		<Unit filename="include/IngredienteDelDiaArchivo.h" />
+		<Unit filename="include/ManejoArchivos.h" />
+		<Unit filename="include/MasterMind.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/Pedido.h" />
+		<Unit filename="include/PedidoArchivo.h" />
+		<Unit filename="include/Style.h" />
+		<Unit filename="include/Ticket.h" />
+		<Unit filename="include/TicketArchivo.h" />
+		<Unit filename="include/Validar.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Administrador.cpp" />
+		<Unit filename="src/Bebida.cpp" />
+		<Unit filename="src/BebidaArchivo.cpp" />
+		<Unit filename="src/BebidaDelDia.cpp" />
+		<Unit filename="src/BebidaDelDiaArchivo.cpp" />
+		<Unit filename="src/Caja.cpp" />
+		<Unit filename="src/Combo.cpp" />
+		<Unit filename="src/ComboArchivo.cpp" />
+		<Unit filename="src/ComboDelDia.cpp" />
+		<Unit filename="src/ComboDelDiaArchivo.cpp" />
+		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/Hamburguesa.cpp" />
+		<Unit filename="src/HamburguesaArchivo.cpp" />
+		<Unit filename="src/HamburguesaDelDia.cpp" />
+		<Unit filename="src/HamburguesaDelDiaArchivo.cpp" />
+		<Unit filename="src/Hora.cpp" />
+		<Unit filename="src/IngDeHambuguesa.cpp" />
+		<Unit filename="src/IngDeHamburguesaArchivo.cpp" />
+		<Unit filename="src/Ingrediente.cpp" />
+		<Unit filename="src/IngredienteArchivo.cpp" />
+		<Unit filename="src/IngredienteDelDia.cpp" />
+		<Unit filename="src/IngredienteDelDiaArchivo.cpp" />
+		<Unit filename="src/ManejoArchivos.cpp" />
+		<Unit filename="src/MasterMind.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/Pedido.cpp" />
+		<Unit filename="src/PedidoArchivo.cpp" />
+		<Unit filename="src/Style.cpp" />
+		<Unit filename="src/Ticket.cpp" />
+		<Unit filename="src/TicketArchivo.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

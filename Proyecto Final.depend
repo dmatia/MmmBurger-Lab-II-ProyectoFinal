@@ -1,0 +1,785 @@
+# depslib dependency file v1.0
+1668726266 source:c:\users\diego\desktop\proyecto final\main.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<locale.h>
+	<string>
+	"Style.h"
+	"Menu.h"
+	"Administrador.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+	"ManejoArchivos.h"
+
+1668446004 source:c:\users\diego\desktop\proyecto final\src\ingrediente.cpp
+	<iostream>
+	<cstring>
+	"Ingrediente.h"
+
+1668446004 c:\users\diego\desktop\proyecto final\include\ingrediente.h
+
+1668194312 source:c:\users\diego\desktop\proyecto final\src\ingredientearchivo.cpp
+	<iostream>
+	"IngredienteArchivo.h"
+
+1668193461 c:\users\diego\desktop\proyecto final\include\ingredientearchivo.h
+	"Ingrediente.h"
+
+1668630676 source:c:\users\diego\desktop\proyecto final\src\ingredientedeldia.cpp
+	<iostream>
+	"IngredienteDelDia.h"
+
+1668630676 c:\users\diego\desktop\proyecto final\include\ingredientedeldia.h
+	"Fecha.h"
+	<Ingrediente.h>
+
+1668705445 c:\users\diego\desktop\proyecto final\include\fecha.h
+
+1668704828 source:c:\users\diego\desktop\proyecto final\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1668667561 source:c:\users\diego\desktop\proyecto final\src\ingredientedeldiaarchivo.cpp
+	<iostream>
+	"IngredienteDelDiaArchivo.h"
+
+1668667561 c:\users\diego\desktop\proyecto final\include\ingredientedeldiaarchivo.h
+	"IngredienteDelDia.h"
+
+1668627637 source:c:\users\diego\desktop\proyecto final\src\style.cpp
+	<iostream>
+	<iomanip>
+	"Style.h"
+	"rlutil.h"
+
+1668627502 c:\users\diego\desktop\proyecto final\include\style.h
+
+1665087532 c:\users\diego\desktop\proyecto final\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1665087532 c:\users\diego\desktop\proyecto final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668718127 source:c:\users\diego\desktop\proyecto final\src\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Style.h"
+	"rlutil.h"
+	"Administrador.h"
+	"Validar.h"
+	"MasterMind.h"
+	"Caja.h"
+
+1668279104 c:\users\diego\desktop\proyecto final\include\menu.h
+
+1668717855 c:\users\diego\desktop\proyecto final\include\administrador.h
+	"Hamburguesa.h"
+
+1668726757 source:c:\users\diego\desktop\proyecto final\src\administrador.cpp
+	<iostream>
+	"rlutil.h"
+	"Administrador.h"
+	"Style.h"
+	<cstring>
+	"Validar.h"
+	"Fecha.h"
+	"Ingrediente.h"
+	"IngredienteArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"Bebida.h"
+	"BebidaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"ManejoArchivos.h"
+	"MasterMind.h"
+	"TicketArchivo.h"
+
+1667271131 c:\users\diego\desktop\proyecto final\include\validar.h
+
+1668721054 c:\users\diego\desktop\proyecto final\include\mastermind.h
+	"Fecha.h"
+
+1668660342 source:c:\users\diego\desktop\proyecto final\src\manejoarchivos.cpp
+	<iostream>
+	"ManejoArchivos.h"
+	"IngredienteDelDia.h"
+	"BebidaDelDia.h"
+	"HamburguesaDelDia.h"
+	"ComboDelDia.h"
+	"Ticket.h"
+	"Pedido.h"
+
+1668660123 c:\users\diego\desktop\proyecto final\include\manejoarchivos.h
+
+1668733149 source:c:\users\diego\desktop\proyecto final\src\mastermind.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"rlutil.h"
+	"MasterMind.h"
+	"Ingrediente.h"
+	"IngredienteArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"Style.h"
+	"Validar.h"
+	"ManejoArchivos.h"
+	<locale.h>
+	"Fecha.h"
+	"Administrador.h"
+	"Bebida.h"
+	"BebidaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"ComboDelDia.h"
+	"ComboDelDiaArchivo.h"
+	"Ticket.h"
+	"TicketArchivo.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+
+1668631118 source:c:\users\diego\desktop\proyecto final\src\bebidadeldia.cpp
+	<iostream>
+	"BebidaDelDia.h"
+
+1668631043 c:\users\diego\desktop\proyecto final\include\bebidadeldia.h
+	<Bebida.h>
+	"Fecha.h"
+
+1668446004 c:\users\diego\desktop\proyecto final\include\bebida.h
+
+1668668538 source:c:\users\diego\desktop\proyecto final\src\bebidadeldiaarchivo.cpp
+	<iostream>
+	"BebidaDelDiaArchivo.h"
+
+1668668533 c:\users\diego\desktop\proyecto final\include\bebidadeldiaarchivo.h
+	"BebidaDelDia.h"
+	"Fecha.h"
+
+1668446004 source:c:\users\diego\desktop\proyecto final\src\bebida.cpp
+	<iostream>
+	<cstring>
+	"Bebida.h"
+	"BebidaArchivo.h"
+
+1668202231 c:\users\diego\desktop\proyecto final\include\bebidaarchivo.h
+	"Bebida.h"
+
+1668201924 source:c:\users\diego\desktop\proyecto final\src\bebidaarchivo.cpp
+	<iostream>
+	"BebidaArchivo.h"
+
+1668219343 source:c:\users\diego\desktop\proyecto final\src\hamburguesa.cpp
+	<iostream>
+	"Hamburguesa.h"
+	<cstring>
+	"HamburguesaArchivo.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+
+1668219329 c:\users\diego\desktop\proyecto final\include\hamburguesa.h
+
+1668219329 c:\users\diego\desktop\proyecto final\include\hamburguesaarchivo.h
+	"Hamburguesa.h"
+
+1668108142 c:\users\diego\desktop\proyecto final\include\ingdehambuguesa.h
+
+1667969222 c:\users\diego\desktop\proyecto final\include\ingdehamburguesaarchivo.h
+	"IngDeHambuguesa.h"
+
+1668219367 source:c:\users\diego\desktop\proyecto final\src\hamburguesaarchivo.cpp
+	<iostream>
+	"HamburguesaArchivo.h"
+
+1668571351 source:c:\users\diego\desktop\proyecto final\src\hamburguesadeldia.cpp
+	<iostream>
+	"HamburguesaDelDia.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+
+1668571351 c:\users\diego\desktop\proyecto final\include\hamburguesadeldia.h
+	"Fecha.h"
+	"Hamburguesa.h"
+
+1667315697 source:c:\users\diego\desktop\proyecto final\src\ingdehambuguesa.cpp
+	<iostream>
+	"IngDeHambuguesa.h"
+
+1668224930 source:c:\users\diego\desktop\proyecto final\src\ingdehamburguesaarchivo.cpp
+	<iostream>
+	"IngDeHamburguesaArchivo.h"
+
+1668667840 source:c:\users\diego\desktop\proyecto final\src\hamburguesadeldiaarchivo.cpp
+	<iostream>
+	"HamburguesaDelDiaArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"IngDeHamburguesaArchivo.h"
+	"IngDeHambuguesa.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+
+1668667840 c:\users\diego\desktop\proyecto final\include\hamburguesadeldiaarchivo.h
+	"HamburguesaDelDia.h"
+	"Fecha.h"
+
+1668268813 source:c:\users\diego\desktop\proyecto final\src\combo.cpp
+	<iostream>
+	<cstring>
+	"Combo.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"Bebida.h"
+	"BebidaArchivo.h"
+	"ComboArchivo.h"
+
+1668268813 c:\users\diego\desktop\proyecto final\include\combo.h
+
+1668268813 c:\users\diego\desktop\proyecto final\include\comboarchivo.h
+	"Combo.h"
+
+1668268785 source:c:\users\diego\desktop\proyecto final\src\comboarchivo.cpp
+	<iostream>
+	"ComboArchivo.h"
+
+1668628032 source:c:\users\diego\desktop\proyecto final\src\combodeldia.cpp
+	<iostream>
+	"ComboDelDia.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+
+1668627558 c:\users\diego\desktop\proyecto final\include\combodeldia.h
+	"Combo.h"
+	"Fecha.h"
+
+1668668778 source:c:\users\diego\desktop\proyecto final\src\combodeldiaarchivo.cpp
+	<iostream>
+	"ComboDelDiaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+
+1668668708 c:\users\diego\desktop\proyecto final\include\combodeldiaarchivo.h
+	"ComboDelDia.h"
+	"Fecha.h"
+
+1668565701 source:c:\users\diego\desktop\proyecto final\src\ticket.cpp
+	<iostream>
+	"Ticket.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"ComboDelDia.h"
+	"ComboDelDiaArchivo.h"
+
+1668549411 c:\users\diego\desktop\proyecto final\include\ticket.h
+	"Fecha.h"
+	"Hora.h"
+
+1668563394 c:\users\diego\desktop\proyecto final\include\hora.h
+
+1668563394 source:c:\users\diego\desktop\proyecto final\src\hora.cpp
+	<iostream>
+	<ctime>
+	"Hora.h"
+
+1668565701 source:c:\users\diego\desktop\proyecto final\src\pedido.cpp
+	<iostream>
+	"Pedido.h"
+	"PedidoArchivo.h"
+
+1668565701 c:\users\diego\desktop\proyecto final\include\pedido.h
+	"Hora.h"
+	"Fecha.h"
+
+1668631769 source:c:\users\diego\desktop\proyecto final\src\caja.cpp
+	<iostream>
+	<iomanip>
+	"Caja.h"
+	"rlutil.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+	"Ticket.h"
+	"TicketArchivo.h"
+	"Validar.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"ComboDelDia.h"
+	"ComboDelDiaArchivo.h"
+	"Style.h"
+	"ManejoArchivos.h"
+
+1668578788 c:\users\diego\desktop\proyecto final\include\caja.h
+	"Ticket.h"
+
+1668670168 source:c:\users\diego\desktop\proyecto final\src\pedidoarchivo.cpp
+	<iostream>
+	"PedidoArchivo.h"
+
+1668670213 c:\users\diego\desktop\proyecto final\include\pedidoarchivo.h
+	"Pedido.h"
+	"Fecha.h"
+
+1668674946 source:c:\users\diego\desktop\proyecto final\src\ticketarchivo.cpp
+	<iostream>
+	"TicketArchivo.h"
+
+1668674946 c:\users\diego\desktop\proyecto final\include\ticketarchivo.h
+	"Fecha.h"
+	"Pedido.h"
+	"Ticket.h"
+
+1668726266 source:c:\users\diego\desktop\utn\proyecto final\main.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<locale.h>
+	<string>
+	"Style.h"
+	"Menu.h"
+	"Administrador.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+	"ManejoArchivos.h"
+
+1665087532 c:\users\diego\desktop\utn\proyecto final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668627502 c:\users\diego\desktop\utn\proyecto final\include\style.h
+
+1668279104 c:\users\diego\desktop\utn\proyecto final\include\menu.h
+
+1668717855 c:\users\diego\desktop\utn\proyecto final\include\administrador.h
+	"Hamburguesa.h"
+
+1668219329 c:\users\diego\desktop\utn\proyecto final\include\hamburguesa.h
+
+1668631043 c:\users\diego\desktop\utn\proyecto final\include\bebidadeldia.h
+	<Bebida.h>
+	"Fecha.h"
+
+1668446004 c:\users\diego\desktop\utn\proyecto final\include\bebida.h
+
+1668705445 c:\users\diego\desktop\utn\proyecto final\include\fecha.h
+
+1668668533 c:\users\diego\desktop\utn\proyecto final\include\bebidadeldiaarchivo.h
+	"BebidaDelDia.h"
+	"Fecha.h"
+
+1668630676 c:\users\diego\desktop\utn\proyecto final\include\ingredientedeldia.h
+	"Fecha.h"
+	<Ingrediente.h>
+
+1668446004 c:\users\diego\desktop\utn\proyecto final\include\ingrediente.h
+
+1668667561 c:\users\diego\desktop\utn\proyecto final\include\ingredientedeldiaarchivo.h
+	"IngredienteDelDia.h"
+
+1668565701 c:\users\diego\desktop\utn\proyecto final\include\pedido.h
+	"Hora.h"
+	"Fecha.h"
+
+1668563394 c:\users\diego\desktop\utn\proyecto final\include\hora.h
+
+1668670213 c:\users\diego\desktop\utn\proyecto final\include\pedidoarchivo.h
+	"Pedido.h"
+	"Fecha.h"
+
+1668660123 c:\users\diego\desktop\utn\proyecto final\include\manejoarchivos.h
+
+1668726757 source:c:\users\diego\desktop\utn\proyecto final\src\administrador.cpp
+	<iostream>
+	"rlutil.h"
+	"Administrador.h"
+	"Style.h"
+	<cstring>
+	"Validar.h"
+	"Fecha.h"
+	"Ingrediente.h"
+	"IngredienteArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"Bebida.h"
+	"BebidaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"ManejoArchivos.h"
+	"MasterMind.h"
+	"TicketArchivo.h"
+
+1665087532 c:\users\diego\desktop\utn\proyecto final\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667271131 c:\users\diego\desktop\utn\proyecto final\include\validar.h
+
+1668193461 c:\users\diego\desktop\utn\proyecto final\include\ingredientearchivo.h
+	"Ingrediente.h"
+
+1668202231 c:\users\diego\desktop\utn\proyecto final\include\bebidaarchivo.h
+	"Bebida.h"
+
+1668219329 c:\users\diego\desktop\utn\proyecto final\include\hamburguesaarchivo.h
+	"Hamburguesa.h"
+
+1668571351 c:\users\diego\desktop\utn\proyecto final\include\hamburguesadeldia.h
+	"Fecha.h"
+	"Hamburguesa.h"
+
+1668667840 c:\users\diego\desktop\utn\proyecto final\include\hamburguesadeldiaarchivo.h
+	"HamburguesaDelDia.h"
+	"Fecha.h"
+
+1668108142 c:\users\diego\desktop\utn\proyecto final\include\ingdehambuguesa.h
+
+1667969222 c:\users\diego\desktop\utn\proyecto final\include\ingdehamburguesaarchivo.h
+	"IngDeHambuguesa.h"
+
+1668268813 c:\users\diego\desktop\utn\proyecto final\include\combo.h
+
+1668268813 c:\users\diego\desktop\utn\proyecto final\include\comboarchivo.h
+	"Combo.h"
+
+1668721054 c:\users\diego\desktop\utn\proyecto final\include\mastermind.h
+	"Fecha.h"
+
+1668674946 c:\users\diego\desktop\utn\proyecto final\include\ticketarchivo.h
+	"Fecha.h"
+	"Pedido.h"
+	"Ticket.h"
+
+1668549411 c:\users\diego\desktop\utn\proyecto final\include\ticket.h
+	"Fecha.h"
+	"Hora.h"
+
+1668446004 source:c:\users\diego\desktop\utn\proyecto final\src\bebida.cpp
+	<iostream>
+	<cstring>
+	"Bebida.h"
+	"BebidaArchivo.h"
+
+1668201924 source:c:\users\diego\desktop\utn\proyecto final\src\bebidaarchivo.cpp
+	<iostream>
+	"BebidaArchivo.h"
+
+1668631118 source:c:\users\diego\desktop\utn\proyecto final\src\bebidadeldia.cpp
+	<iostream>
+	"BebidaDelDia.h"
+
+1668668538 source:c:\users\diego\desktop\utn\proyecto final\src\bebidadeldiaarchivo.cpp
+	<iostream>
+	"BebidaDelDiaArchivo.h"
+
+1668631769 source:c:\users\diego\desktop\utn\proyecto final\src\caja.cpp
+	<iostream>
+	<iomanip>
+	"Caja.h"
+	"rlutil.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+	"Ticket.h"
+	"TicketArchivo.h"
+	"Validar.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"ComboDelDia.h"
+	"ComboDelDiaArchivo.h"
+	"Style.h"
+	"ManejoArchivos.h"
+
+1668578788 c:\users\diego\desktop\utn\proyecto final\include\caja.h
+	"Ticket.h"
+
+1668627558 c:\users\diego\desktop\utn\proyecto final\include\combodeldia.h
+	"Combo.h"
+	"Fecha.h"
+
+1668668708 c:\users\diego\desktop\utn\proyecto final\include\combodeldiaarchivo.h
+	"ComboDelDia.h"
+	"Fecha.h"
+
+1668268813 source:c:\users\diego\desktop\utn\proyecto final\src\combo.cpp
+	<iostream>
+	<cstring>
+	"Combo.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"Bebida.h"
+	"BebidaArchivo.h"
+	"ComboArchivo.h"
+
+1668268785 source:c:\users\diego\desktop\utn\proyecto final\src\comboarchivo.cpp
+	<iostream>
+	"ComboArchivo.h"
+
+1668628032 source:c:\users\diego\desktop\utn\proyecto final\src\combodeldia.cpp
+	<iostream>
+	"ComboDelDia.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+
+1668668778 source:c:\users\diego\desktop\utn\proyecto final\src\combodeldiaarchivo.cpp
+	<iostream>
+	"ComboDelDiaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+
+1668704828 source:c:\users\diego\desktop\utn\proyecto final\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1668219343 source:c:\users\diego\desktop\utn\proyecto final\src\hamburguesa.cpp
+	<iostream>
+	"Hamburguesa.h"
+	<cstring>
+	"HamburguesaArchivo.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+
+1668219367 source:c:\users\diego\desktop\utn\proyecto final\src\hamburguesaarchivo.cpp
+	<iostream>
+	"HamburguesaArchivo.h"
+
+1668571351 source:c:\users\diego\desktop\utn\proyecto final\src\hamburguesadeldia.cpp
+	<iostream>
+	"HamburguesaDelDia.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+
+1668667840 source:c:\users\diego\desktop\utn\proyecto final\src\hamburguesadeldiaarchivo.cpp
+	<iostream>
+	"HamburguesaDelDiaArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"IngDeHamburguesaArchivo.h"
+	"IngDeHambuguesa.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+
+1668563394 source:c:\users\diego\desktop\utn\proyecto final\src\hora.cpp
+	<iostream>
+	<ctime>
+	"Hora.h"
+
+1667315697 source:c:\users\diego\desktop\utn\proyecto final\src\ingdehambuguesa.cpp
+	<iostream>
+	"IngDeHambuguesa.h"
+
+1668224930 source:c:\users\diego\desktop\utn\proyecto final\src\ingdehamburguesaarchivo.cpp
+	<iostream>
+	"IngDeHamburguesaArchivo.h"
+
+1668446004 source:c:\users\diego\desktop\utn\proyecto final\src\ingrediente.cpp
+	<iostream>
+	<cstring>
+	"Ingrediente.h"
+
+1668194312 source:c:\users\diego\desktop\utn\proyecto final\src\ingredientearchivo.cpp
+	<iostream>
+	"IngredienteArchivo.h"
+
+1668630676 source:c:\users\diego\desktop\utn\proyecto final\src\ingredientedeldia.cpp
+	<iostream>
+	"IngredienteDelDia.h"
+
+1668667561 source:c:\users\diego\desktop\utn\proyecto final\src\ingredientedeldiaarchivo.cpp
+	<iostream>
+	"IngredienteDelDiaArchivo.h"
+
+1668660342 source:c:\users\diego\desktop\utn\proyecto final\src\manejoarchivos.cpp
+	<iostream>
+	"ManejoArchivos.h"
+	"IngredienteDelDia.h"
+	"BebidaDelDia.h"
+	"HamburguesaDelDia.h"
+	"ComboDelDia.h"
+	"Ticket.h"
+	"Pedido.h"
+
+1668733149 source:c:\users\diego\desktop\utn\proyecto final\src\mastermind.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"rlutil.h"
+	"MasterMind.h"
+	"Ingrediente.h"
+	"IngredienteArchivo.h"
+	"IngredienteDelDia.h"
+	"IngredienteDelDiaArchivo.h"
+	"Style.h"
+	"Validar.h"
+	"ManejoArchivos.h"
+	<locale.h>
+	"Fecha.h"
+	"Administrador.h"
+	"Bebida.h"
+	"BebidaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"Hamburguesa.h"
+	"HamburguesaArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"IngDeHambuguesa.h"
+	"IngDeHamburguesaArchivo.h"
+	"Combo.h"
+	"ComboArchivo.h"
+	"ComboDelDia.h"
+	"ComboDelDiaArchivo.h"
+	"Ticket.h"
+	"TicketArchivo.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+
+1668718127 source:c:\users\diego\desktop\utn\proyecto final\src\menu.cpp
+	<iostream>
+	"Menu.h"
+	"Style.h"
+	"rlutil.h"
+	"Administrador.h"
+	"Validar.h"
+	"MasterMind.h"
+	"Caja.h"
+
+1668565701 source:c:\users\diego\desktop\utn\proyecto final\src\pedido.cpp
+	<iostream>
+	"Pedido.h"
+	"PedidoArchivo.h"
+
+1668670168 source:c:\users\diego\desktop\utn\proyecto final\src\pedidoarchivo.cpp
+	<iostream>
+	"PedidoArchivo.h"
+
+1668627637 source:c:\users\diego\desktop\utn\proyecto final\src\style.cpp
+	<iostream>
+	<iomanip>
+	"Style.h"
+	"rlutil.h"
+
+1668565701 source:c:\users\diego\desktop\utn\proyecto final\src\ticket.cpp
+	<iostream>
+	"Ticket.h"
+	"Pedido.h"
+	"PedidoArchivo.h"
+	"HamburguesaDelDia.h"
+	"HamburguesaDelDiaArchivo.h"
+	"BebidaDelDia.h"
+	"BebidaDelDiaArchivo.h"
+	"ComboDelDia.h"
+	"ComboDelDiaArchivo.h"
+
+1668674946 source:c:\users\diego\desktop\utn\proyecto final\src\ticketarchivo.cpp
+	<iostream>
+	"TicketArchivo.h"
+
